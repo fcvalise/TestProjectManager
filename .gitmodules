@@ -1,3 +1,6 @@
 [submodule "Assets/ProjectManager"]
 	path = Assets/ProjectManager
 	url = https://github.com/fcvalise/ProjectManager.git
+[submodule "Oisif/MouseCantFly"]
+	path = Oisif/MouseCantFly
+	url = https://github.com/fcvalise/MouseCantFly
